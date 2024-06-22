@@ -1,0 +1,5 @@
+a={9,7,5,1,3}
+maximum_value=max(a)
+minimum_value=min(a)
+print(f"maximum value is: {maximum_value}")
+print(f"minimum value is: {minimum_value}")
